@@ -1,0 +1,13 @@
+Задача №1
+
+num1 = 4
+num2 = 8
+print(num1, num2)
+number1 = ('Введите число')
+number2 = ('Введите число')
+string1 = ('Введите строку')
+string2 = ('Введите строку')
+print(number1, number2, string1, string2)
+
+Задача №2
+
